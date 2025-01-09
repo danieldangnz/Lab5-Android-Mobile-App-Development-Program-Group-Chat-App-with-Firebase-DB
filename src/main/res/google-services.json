@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "53688667307",
+    "firebase_url": "https://chatappdaniel.firebaseio.com",
+    "project_id": "chatappdaniel",
+    "storage_bucket": "chatappdaniel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53688667307:android:26c784542265d560",
+        "android_client_info": {
+          "package_name": "project.dang.daniel.chatapp_daniel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53688667307-qcnu1g8b0ccimepm9kr73cd60eq26fp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.dang.daniel.chatapp_daniel",
+            "certificate_hash": "a666318beeae462bfd163734ecc3f27103f7327f"
+          }
+        },
+        {
+          "client_id": "53688667307-p1sp137jrmjdslju7j0aq3mccfmbulgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFgBiQ_kM7B3az80ewBk5FeFGmIyfoFH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53688667307-p1sp137jrmjdslju7j0aq3mccfmbulgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

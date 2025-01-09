@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatApp_Daniel</string>
+
+    <!--Add two below variables to solve rendering problem: Couldn't resolve resource @id/visible
+    when using TextInputLayout-->
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+</resources>
